@@ -1,12 +1,8 @@
 # Mini-Project: English-to-lolspeak translator
----
-
 
 # Intro
 
 Here it is a English-to-Lolcat translation engine, using this [glossary](https://github.com/normansimonr/Dumb-Cogs/blob/master/lolz/data/tranzlashun.json). [Lolspeak](https://en.wiktionary.org/wiki/lolspeak) is the language that [lolcats](https://en.wikipedia.org/wiki/Lolcat) speak. 
-
----
 
 # Usage 
 
