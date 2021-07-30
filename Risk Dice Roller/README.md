@@ -1,5 +1,4 @@
 # Risk Dice Roller - Game
----
 
 # Intro
 
@@ -20,8 +19,6 @@ Combat Rules
 * If both sides rolled a second die, match the second-highest attacking die to the second-highest defending die - the side with the lower number loses a unit. The defender always wins ties.
 
 `Risk_Dice_Roller.py` simulates the dice rolling results and thus, the result of the game.
-
----
 
 # Usage 
 
