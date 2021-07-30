@@ -1,5 +1,4 @@
 # Encryption & Decryption of Messages with RSA Encryption
----
 
 # Intro
 
@@ -15,9 +14,6 @@ Where
 - n = (p*q)
 - ϕ(𝑛) = (p-1)*(q-1)
 - d = int((i*ϕ(𝑛)+1)/e)
-
-
----
 
 # Usage 
 Encryption and decription are used as follow:
