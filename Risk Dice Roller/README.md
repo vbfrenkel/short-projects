@@ -1,7 +1,5 @@
 # Risk Dice Roller - Game
 
-# Intro
-
 Game simulator, based on the board game "Risk".
 
 1. There is an attacker who rolls up to 3 dice and a defender who rolls up to 2. 
