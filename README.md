@@ -1,7 +1,5 @@
 # Short Projects
 
-# Intro
-
 Here are three python-based short-projects. In each folder it is the description of each one.
 
 # Documment Structure
