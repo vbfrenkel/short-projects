@@ -1,7 +1,5 @@
 # Encryption & Decryption of Messages with RSA Encryption
 
-# Intro
-
 [RSA encryption](https://brilliant.org/wiki/rsa-encryption/) allows people to exchange information securely over the Internet without worrying about third parties eavesdropping on their communications. It makes use of a public key and a private key.
 
 * `Public Key` numbers: `n` and `e`. Only useful to encrypt messages, not to decrypt them (encryption key). This numbers are sent by the receptor to the sender of the message and it doesn't matter if someone else obtain this numbers
